@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vps-tracking-bridge",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "http://180.93.195.52:3000/$1"
+    }
+  ]
+}

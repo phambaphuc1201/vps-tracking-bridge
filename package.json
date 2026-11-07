@@ -1,0 +1,9 @@
+{
+  "name": "vps-tracking-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cầu nối HTTPS Edge Proxy ẩn IP VPS thật cho Google Sheets",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
