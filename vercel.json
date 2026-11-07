@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "name": "vps-tracking-bridge",
   "rewrites": [
     {
       "source": "/(.*)",
